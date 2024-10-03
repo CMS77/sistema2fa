@@ -1,9 +1,9 @@
-Sistema 2FA
+# Sistema 2FA
 
-Engenharia Informática
+**Engenharia Informática**
 
-ANO/SEMESTRE: 2024-2025
+**Ano/Semestre:** 2024-2025
 
-Unidade Curricular: Sistemas Distribuídos
+**Unidade Curricular:** Sistemas Distribuídos
 
-Professor: Pedro Rosa
+**Professor:** Pedro Rosa
